@@ -28,8 +28,8 @@
 <br><br>
 <!-- -->
 <div alig="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=MuriloMarcondesSilva&show_icons=true&theme=vue&include_all_commits=true&count_private=true" height="180em"alt="MuriloMarcondesSilva-Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMarcondesSilva&layout=compact&langs_count=7&theme=vue" alt="MuriloMarcondesSilva-Stats" /> 
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=MuriloMarcondesSilva&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180em"alt="MuriloMarcondesSilva-Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMarcondesSilva&layout=compact&langs_count=7&theme=gotham" alt="MuriloMarcondesSilva-Stats" /> 
 </div> <br><br>
 
 ---
