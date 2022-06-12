@@ -12,7 +12,7 @@
 - :zap: Estou sempre aberto a novas oportunidades e desafios
 
 <h3>:incoming_envelope:Conecte-se comigo::incoming_envelope:</h3>
-<a href="https://www.linkedin.com/in/murilo-marcondes-34192022a/" target="_blank" ><img align="center" src="https://img.icons8.com/fluency/240/undefined/linkedin-circled.png" height="40" width="40" alt="Linkedin"></a> <!-- -->
+<a href="https://www.linkedin.com/in/murilo-marcondes-34192022a/" target="_blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="40" width="40" alt="Linkedin"></a> <!-- -->
 <a href="https://www.instagram.com/muriloo0103/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40" alt="Instagran"/></a> <!-- -->
 <a href="mailto:mukasilva26@gmail.com" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2631/PNG/128/gmail_new_logo_icon_159149.png" height="40" width="40" alt="Email image"></a> <!-- -->
 <a href="https://discord.com/users/835207415154737152" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40" alt="Discord"/></a> <!-- -->
