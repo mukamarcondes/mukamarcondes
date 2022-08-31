@@ -1,7 +1,7 @@
 <h1 align="center">Olá :wave:, sou Murilo Marcondes</h1>
 
 <!-- Profile Views -->
-<p align="center"> <img src= "https://komarev.com/ghpvc/?username=MuriloMarcondesSilva&label=Profile%20views&color=brightgreen&style=flat" alt="MuriloMarcondesSilva" /> </p> <!-- -->
+<p align="center"> <img src= "https://komarev.com/ghpvc/?username=mukamarcondes&label=Profile%20views&color=brightgreen&style=flat" alt="MuriloMarcondesSilva" /> </p> <!-- -->
 
 <h2>Sou Estudante e Desenvolvedor!</h2> 
 
@@ -28,8 +28,8 @@
 <br><br>
 <!-- -->
 <div alig="left">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=MuriloMarcondesSilva&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180em"alt="MuriloMarcondesSilva-Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloMarcondesSilva&layout=compact&langs_count=7&theme=gotham" alt="MuriloMarcondesSilva-Stats" /> 
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=mukamarcondes&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" height="180em"alt="MuriloMarcondesSilva-Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukamarcondes&layout=compact&langs_count=7&theme=gotham" alt="Mmukamarcondes-Stats" /> 
 </div> <br><br>
 
 ---
