@@ -5,10 +5,10 @@
 
 <h2>Sou Estudante e Desenvolvedor!</h2> 
 
-- :telescope: Acabei de iniciar o segundo período do meu curso técnico
+- :telescope: Acabei de iniciar o segundo período do meu curso superior
 - :seedling: Atualmente estou aprendendo tudo o que posso :sweat_smile: 
 - :dancers:  Estou procurando colaborar com tarefas e necessidades globais com meu conhecimento
-- :chart_with_upwards_trend: Metas para 2023: Concluir meu curso e conseguir um emprego na área de TI
+- :chart_with_upwards_trend: Metas para 2024: Concluir meu curso superior e conseguir um emprego na área de TI
 - :zap: Estou sempre aberto a novas oportunidades e desafios
 
 <h3>:incoming_envelope:Conecte-se comigo::incoming_envelope:</h3>
