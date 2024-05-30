@@ -5,8 +5,7 @@
 
 <h2>Sou Estudante e Desenvolvedor!</h2> 
 
-- :telescope: Estrou prestes a iniciar o quarto e ultimo
--  período do meu curso superior
+- :telescope: Estrou prestes a iniciar o quarto e ultimo período do meu curso superior
 - :seedling: Atualmente estou aprendendo tudo o que posso :sweat_smile: 
 - :dancers:  Estou procurando colaborar com tarefas e necessidades globais com meu conhecimento
 - :chart_with_upwards_trend: Metas para 2024: Concluir meu curso superior e conseguir um emprego na área de TI
